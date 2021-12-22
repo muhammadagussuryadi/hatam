@@ -1,5 +1,5 @@
 {
-  "apiUrl": "http://admin-api-hatam.majelislearning.com/",
-  "fileUrl": "http://admin-api-hatam.majelislearning.com/",
+  "apiUrl": "https://admin-api-hatam.majelislearning.com/",
+  "fileUrl": "https://admin-api-hatam.majelislearning.com/",
   "limit": 20
 }
